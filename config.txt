@@ -109,9 +109,9 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "etn.fairhash.org:3333",
+"pool_address" : "london01.electroneum.hashvault.pro:80",
 "wallet_address" : "etnkBFHuq1DMZ9hngazCBCd6s2EvZNnyceufP3hA6b9MNw5XQqQ6CY1T3ZfNdUqwNLUFpfQZNWJC3Pv44PBEYggf8wpU6EbXES",
-"pool_password" : "etn2core:nalenal169@gmail.com",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
